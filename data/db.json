@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "title": "Beautiful Sunset",
+      "datetime": "August 16, 2026 3:28:00 AM",
+      "body": "Beautiful sunset today yes"
+    },
+    {
+      "id": "wsC2Y7RbLjQ",
+      "title": "Jesus",
+      "datetime": "August 14, 2026 6:06:28 PM",
+      "body": "God is Good"
+    },
+    {
+      "id": "_Oe1rHCXI3g",
+      "title": "God is Love - Jesus",
+      "datetime": "August 15, 2026 12:39:32 AM",
+      "body": "Jesus Loves You"
+    },
+    {
+      "id": "U1yefNByepY",
+      "title": "True God - Jesus",
+      "datetime": "August 16, 2026 3:27:46 AM",
+      "body": "Lots of Love from heaven"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
